@@ -1,1 +1,1 @@
-Trying to add two inputs using functions
+Example of functions for personal Tracking 
